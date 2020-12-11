@@ -90,4 +90,4 @@ else {
 }
 
 # If you don't want to exit the window, uncomment the below line
-Pause
+# Pause
