@@ -30,7 +30,6 @@ You can also choose the Source and Destination path to the same location. The sc
 * Delete empty folders after moving
 * Option to choose Source Folder and Destination/ Target folder as same
 
-![After sort and moving the files to date wise folders](assets/output.png)
-
 ![Script output](assets/window.png)
 
+![After sort and moving the files to date wise folders](assets/output.png)
